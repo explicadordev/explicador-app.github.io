@@ -28,3 +28,10 @@ outras opçoes avançadas que estao disponiveis apenas para os utilizadores aute
 
 
 #### O que vou ganhar ao me registar nesta plataforma?
+
+#### Além de explicadores o que mais terei lá?
+
+* Centros de explicacao
+* Material
+* Ver disponibilidade de livros nas bibliotecas
+* ...
