@@ -1,5 +1,8 @@
 # explicador.github.io
-Pagina de documentacao
+Pagina de documentacao 
+
+NOTA: Tudo ainda é demo.
+veja o link: https://explicador.github.io
 
 ## Explicador
 
